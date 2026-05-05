@@ -185,11 +185,6 @@ If you use this code in your research, please cite:
 
 ---
 
-## License
-
-This project is released for academic and research use. Please contact the authors for commercial licensing inquiries.
-
----
 
 ## Acknowledgements
 

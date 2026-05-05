@@ -174,12 +174,12 @@ After training, `Final_code_training.m` automatically generates:
 
 If you use this code in your research, please cite:
 
-```bibtex
+```bibtex (to be updated)
 @inproceedings{gupta2025bufdq,
   title     = {BUFD-Q: Boltzmann-Guided Q-Learning for Optimized 3D UAV Deployment in Flood-Affected Wireless Networks},
   author    = {Gupta, Swateya and Dey, Meenu Rani},
   institution = {Indian Institute of Technology Guwahati},
-  year      = {2025}
+  year      = {2026}
 }
 ```
 

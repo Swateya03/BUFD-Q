@@ -174,13 +174,10 @@ After training, `Final_code_training.m` automatically generates:
 
 If you use this code in your research, please cite:
 
-```bibtex (to be updated)
-@inproceedings{gupta2025bufdq,
-  title     = {BUFD-Q: Boltzmann-Guided Q-Learning for Optimized 3D UAV Deployment in Flood-Affected Wireless Networks},
-  author    = {Gupta, Swateya and Dey, Meenu Rani},
-  institution = {Indian Institute of Technology Guwahati},
-  year      = {2026}
-}
+```bibtex 
+S. Gupta and M. Rani Dey, "BUFD-Q: Boltzmann-Guided Q-Learning for Optimized 3D UAV Deployment in Flood-Affected Wireless Networks," 2026 18th International Conference on COMmunication Systems and NETworks (COMSNETS), Bengaluru, India, 2026, pp. 1-5, doi: 10.1109/COMSNETS67989.2026.11418078. keywords: {Base stations;Adaptation models;Three-dimensional displays;Q-learning;Communication systems;Wireless networks;Interference;Autonomous aerial vehicles;Spatiotemporal phenomena;Vehicle dynamics;UAV base stations;post-disaster communication;reinforcement learning;Q-learning;dynamic 3D deployment;energy-aware optimization;interference management},
+
+
 ```
 
 ---

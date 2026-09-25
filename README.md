@@ -3,7 +3,7 @@
 > **Paper:** *BUFD-Q: Boltzmann-Guided Q-Learning for Optimized 3D UAV Deployment in Flood-Affected Wireless Networks*  
 > **Authors:** Swateya Gupta, Meenu Rani Dey  
 > **Affiliation:** Indian Institute of Technology Guwahati, Assam, India  
-> **Contact:** swateya.gupta@iitg.ac.in · rmeenu@iitg.ac.in
+> **Contact:** g.swateya@iitg.ac.in · rmeenu@iitg.ac.in
 
 ---
 
